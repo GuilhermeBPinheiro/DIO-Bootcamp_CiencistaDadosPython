@@ -13,7 +13,7 @@ Repositório para armazenar resumos sobre assuntos do Bootcamp de Potência Tech
 
 - [Programa - Criando um Sistema Bancário](https://github.com/GuilhermeBPinheiro/DIO-Bootcamp_CiencistaDadosPython/blob/main/programa_BancoPython.py)
 - [Programa - Criando um Sistema Bancário 2.0](https://github.com/GuilhermeBPinheiro/DIO-Bootcamp_CiencistaDadosPython/blob/main/programa_BancoPython-2.0.py)
-- [Programa - Banco de Dados E-Commerce]()
+- [Programa - Banco de Dados E-Commerce](https://github.com/GuilhermeBPinheiro/DIO-Bootcamp_CientistaDadosPython/blob/main/programa_BancoE-Commerce.sql)
 
 ## 🔍Referência
 - [Profº. Guilherme Arthur de Carvalho - @guicarvalaho](https://github.com/digitalinnovationone/trilha-python-dio)
