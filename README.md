@@ -1,4 +1,4 @@
-# DIO-Bootcamp_CiencistaDadosPython
+# DIO-Bootcamp_CientistaDadosPython
 Bootcamp: Potência Tech powered by iFood | Ciências de Dados com Python
 
 # DIO | Resumos Git e GitHub
@@ -11,8 +11,9 @@ Repositório para armazenar resumos sobre assuntos do Bootcamp de Potência Tech
 
 ## 🖥️ Desafios
 
-- [Programa Base - Criando um Sistema Bancário](https://github.com/GuilhermeBPinheiro/DIO-Bootcamp_CiencistaDadosPython/blob/main/programa_BancoPython.py)
-- [Programa Base - Criando um Sistema Bancário 2.0](https://github.com/GuilhermeBPinheiro/DIO-Bootcamp_CiencistaDadosPython/blob/main/programa_BancoPython-2.0.py)
+- [Programa - Criando um Sistema Bancário](https://github.com/GuilhermeBPinheiro/DIO-Bootcamp_CiencistaDadosPython/blob/main/programa_BancoPython.py)
+- [Programa - Criando um Sistema Bancário 2.0](https://github.com/GuilhermeBPinheiro/DIO-Bootcamp_CiencistaDadosPython/blob/main/programa_BancoPython-2.0.py)
+- [Programa - Banco de Dados E-Commerce]()
 
 ## 🔍Referência
 - [Profº. Guilherme Arthur de Carvalho - @guicarvalaho](https://github.com/digitalinnovationone/trilha-python-dio)
