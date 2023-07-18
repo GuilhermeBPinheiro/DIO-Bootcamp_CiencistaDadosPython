@@ -106,7 +106,7 @@ Entidade Adicional:
     CodigoRastreio
 '''
 
-# Script SQL para Criação do Esquema do Banco de Dados:
+''' Script SQL para Criação do Esquema do Banco de Dados: '''
 
 CREATE TABLE ClientePF (
   ID INT PRIMARY KEY,
@@ -184,7 +184,7 @@ CREATE TABLE Entrega (
   FOREIGN KEY (PedidoID) REFERENCES Pedido(ID)
 );
 
-# Quantos pedidos foram feitos por cada cliente?
+''' Quantos pedidos foram feitos por cada cliente? '''
 
 SELECT 
   CASE
@@ -197,7 +197,7 @@ LEFT JOIN ClientePF ON Pedido.ClienteID = ClientePF.ID
 LEFT JOIN ClientePJ ON Pedido.ClienteID = ClientePJ.ID
 GROUP BY Cliente;
 
-# Algum vendedor também é fornecedor?
+''' Algum vendedor também é fornecedor? '''
 
 SELECT 
   Vendedor.Nome AS Vendedor,
@@ -208,7 +208,7 @@ SELECT
 FROM Vendedor
 LEFT JOIN Fornecedor ON Vendedor.ID = Fornecedor.ID;
 
-# Relação de produtos, fornecedores e estoques:
+''' Relação de produtos, fornecedores e estoques: '''
 
 SELECT 
   Produto.Nome AS Produto,
